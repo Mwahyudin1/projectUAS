@@ -7,4 +7,4 @@
 ## Berikut link Project UAS
 - [YouTube](https://youtu.be/ryVNmW3PyQg?si=w35Dj9Z542E2yve1)
 - [pdf](https://drive.google.com/file/d/1OK4ZrajBfsHUwNqkI3G4qe9qNV4KUi4h/view?usp=drive_link)
-- `link website`
+- [link_web](https://precognitive-chief.000webhostapp.com/login.php)
